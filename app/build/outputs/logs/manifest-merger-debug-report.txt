@@ -1,0 +1,958 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:2:1-63:12
+MERGED from [androidx.databinding:viewbinding:7.4.1] C:\Users\brayt\.gradle\caches\transforms-3\ed7d86213481e7fcc04dcaa4f0595d5e\transformed\viewbinding-7.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] C:\Users\brayt\.gradle\caches\transforms-3\cda250af8b3673c0ed650b6048eef29d\transformed\navigation-ui-ktx-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.5.3] C:\Users\brayt\.gradle\caches\transforms-3\208ef6b5405797bd606595c2a56d9516\transformed\navigation-ui-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\brayt\.gradle\caches\transforms-3\332e92d9222ee833a46fa947d8d53b86\transformed\material-1.9.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\brayt\.gradle\caches\transforms-3\354c41b5f758a0c6d6cd607fd38ff469\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\brayt\.gradle\caches\transforms-3\3d56b934d2055f59b3e400691321756b\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\brayt\.gradle\caches\transforms-3\9ea4a9ad5810da0e44c1dc5d5468dfd7\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\brayt\.gradle\caches\transforms-3\ca8c03636d0a287d7d554f7dfdfacf5b\transformed\glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\1502967048f222ef2d216a7787972143\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\469b054b9ced2914a64722b602a67fc1\transformed\firebase-auth-ktx-21.0.3\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:17:1-73:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] C:\Users\brayt\.gradle\caches\transforms-3\b146b0655ef448b5a0fa025a7d194295\transformed\navigation-fragment-ktx-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] C:\Users\brayt\.gradle\caches\transforms-3\ef704ce87eb678a7b4dcf8b722aacccb\transformed\navigation-fragment-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.4] C:\Users\brayt\.gradle\caches\transforms-3\664d382528747b1da97f7e91c12eabb5\transformed\fragment-ktx-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-ktx:20.0.4] C:\Users\brayt\.gradle\caches\transforms-3\bcb8829b99bc67011a341e2c87c7db16\transformed\firebase-database-ktx-20.0.4\AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:firebase-storage-ktx:20.0.1] C:\Users\brayt\.gradle\caches\transforms-3\32699f32ce7d0710b86409ed3a7c6ea7\transformed\firebase-storage-ktx-20.0.1\AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.0] C:\Users\brayt\.gradle\caches\transforms-3\d92f63cf85c55bbb65c447758e26a507\transformed\firebase-common-ktx-20.1.0\AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:firebase-database:20.0.4] C:\Users\brayt\.gradle\caches\transforms-3\10e403ca996d8358a037486a60e9db8b\transformed\firebase-database-20.0.4\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\brayt\.gradle\caches\transforms-3\86245c0e159f0c4122a3f912d0f221ae\transformed\firebase-storage-20.0.1\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\brayt\.gradle\caches\transforms-3\26f1bf0169bb4d28ec48d2859fee794f\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\brayt\.gradle\caches\transforms-3\9c53c566d63d2b654bfcf062d6436360\transformed\firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-common:20.1.0] C:\Users\brayt\.gradle\caches\transforms-3\a49b775625bdc648be59af59f36fc96a\transformed\firebase-common-20.1.0\AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\brayt\.gradle\caches\transforms-3\e1d551d4fa90ec6fa2a94169385c13c4\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\brayt\.gradle\caches\transforms-3\cccb9504838f535a292de0eaefad851d\transformed\play-services-safetynet-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\brayt\.gradle\caches\transforms-3\7638d7317842704377531c5b38384473\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\brayt\.gradle\caches\transforms-3\9a78a74798a6e90d809685a21a88d902\transformed\play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\brayt\.gradle\caches\transforms-3\3133069cabdb6240d3026d9089260abc\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\brayt\.gradle\caches\transforms-3\32242d14bb92f5b99c4d11010ad5c307\transformed\play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\brayt\.gradle\caches\transforms-3\4d6ef77c7c4b45838addfe9648eaf496\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] C:\Users\brayt\.gradle\caches\transforms-3\5c3c6cb8041f3a9afb137b9601a97af7\transformed\navigation-runtime-ktx-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] C:\Users\brayt\.gradle\caches\transforms-3\2f7e1008377c4e289df5ddd1efe217fc\transformed\navigation-runtime-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.6.0] C:\Users\brayt\.gradle\caches\transforms-3\c0ec1fac45c94d13aeb981253d04ae41\transformed\activity-ktx-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\brayt\.gradle\caches\transforms-3\6ed5c3cb4557bcbffd464bd438199821\transformed\activity-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\brayt\.gradle\caches\transforms-3\4e0f9cc1e8b5f7dfd08d0e9d2aa6d183\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\brayt\.gradle\caches\transforms-3\0a6e725b5cd926d88f40799b5736ce68\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\1019d298faf82cc61df8261ae9e22a9c\transformed\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\cb9de18f5c55fead2b9a17b5cf402d92\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\brayt\.gradle\caches\transforms-3\bdf2a544c6cd87fbf9f7a323de19b6a9\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\brayt\.gradle\caches\transforms-3\0211082ebf606da4366a8b26434d4474\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\51019e01c1558a85db5c95a792f709e6\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\brayt\.gradle\caches\transforms-3\fec6fef560056c066cb80eea3cf1e5f1\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\brayt\.gradle\caches\transforms-3\7ac0e00923bdc74bf4c65e66dfa85973\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.work:work-runtime-ktx:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\97ed688846e116ab212fb1f9e0183ff0\transformed\work-runtime-ktx-2.7.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:17:1-145:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] C:\Users\brayt\.gradle\caches\transforms-3\632ae7760f5160096671dece4cdfa9b3\transformed\navigation-common-ktx-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.3] C:\Users\brayt\.gradle\caches\transforms-3\18fc2d7f192937458ed7003471e425c3\transformed\navigation-common-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\b00598b3e56db12d1b50cfdae3a5c2cc\transformed\lifecycle-runtime-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\6fb59240fd1590260f9954829d23e346\transformed\lifecycle-service-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\brayt\.gradle\caches\transforms-3\bba2612cafe61045587b53134cd3335a\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\brayt\.gradle\caches\transforms-3\a89189fea0f2379f67a6d15ac573ed9f\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\08c001180caff856c9a28c05a0e6cf43\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\bfd38c1d7bed4470f2889abfacf6d1c9\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\92fe515977e83faabcb7c6827e6b6c6f\transformed\lifecycle-livedata-core-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\4f7f86b60790fadeddb92d0c76be4c55\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\055d4264874d663c777b059a56921f1c\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\da25afe9b9d0d07ef188f23723ea550a\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\710e8bd048c04ea0797d684a259aa685\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\13c516caaecd9d15cfd3a6040b9ab03a\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\brayt\.gradle\caches\transforms-3\efca7ead61e4cfe09fb0d382cff176d2\transformed\core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\brayt\.gradle\caches\transforms-3\81a771193f10b4b6db84600fb34f78b9\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\brayt\.gradle\caches\transforms-3\517b6256912f36d5fe1223cc32d3e243\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\53854e14829ab5e97cff60a965055508\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\brayt\.gradle\caches\transforms-3\6366adedfaec4bf098b79d1bda16edad\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\brayt\.gradle\caches\transforms-3\7fd6190ff87c72feaf45962a6fb965fb\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\61503bda008b69554a58ce711449c738\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\3bd5283283fb7399a914c4f2612aabf6\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\dbb8c38ef7f22920dd7bf68cb4b186ed\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\brayt\.gradle\caches\transforms-3\256359c9505432507558def56c015fe7\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\cf48ad8c8213fd1616a29db85dec6202\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\5c05ee953ce3fc9b7596ab076ed45d5f\transformed\lifecycle-livedata-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\e6dc17dc6306a63f6466c3cff455c67e\transformed\lifecycle-viewmodel-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\b4b16ce128e658d4fb9a6c34a4bfbcac\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\25c9b7bdcdedba044692f3695a5af720\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\brayt\.gradle\caches\transforms-3\abf4d5f03a4e424713604aa2911f5c05\transformed\firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\brayt\.gradle\caches\transforms-3\95308db0332c64d4d1e1ae48053fc0d3\transformed\gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\1c57c028cfd2095dd05a306a0347e064\transformed\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\brayt\.gradle\caches\transforms-3\9d32782690545645109e135cfe2ca1dc\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\brayt\.gradle\caches\transforms-3\3398cbe7ec4bb8c9bfa1739436f07cb0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\brayt\.gradle\caches\transforms-3\67c06f6aeb6a0e296c9ca017d463a438\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\a505a3ae5f2941879317b14c4b04d828\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\brayt\.gradle\caches\transforms-3\1726898b493c7215295802f7e1094238\transformed\room-runtime-2.2.5\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\brayt\.gradle\caches\transforms-3\90d223e8c796a49c881cde149d6d4fa7\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\37baa4b8c12e2f716d7b677e7052bc9e\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\brayt\.gradle\caches\transforms-3\8087a60deac40dc5fb959a09f03ba3d0\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\brayt\.gradle\caches\transforms-3\999a9ee89a17bec1d3bf096e71758cdc\transformed\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\0b7f14c5d9fed764e36e3d700540d4e3\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\729013ad4ef2b988aa2cca031cc00bd3\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\9a81d401912323b9ffbb11fe37fd5b76\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\brayt\.gradle\caches\transforms-3\18e7f68519c008b481da0cf75fc46559\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:2:1-63:12
+	package
+		INJECTED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:2:1-63:12
+		INJECTED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:2:1-63:12
+		INJECTED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:2:1-63:12
+		INJECTED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:20.0.4] C:\Users\brayt\.gradle\caches\transforms-3\10e403ca996d8358a037486a60e9db8b\transformed\firebase-database-20.0.4\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:20.0.4] C:\Users\brayt\.gradle\caches\transforms-3\10e403ca996d8358a037486a60e9db8b\transformed\firebase-database-20.0.4\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\brayt\.gradle\caches\transforms-3\86245c0e159f0c4122a3f912d0f221ae\transformed\firebase-storage-20.0.1\AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\brayt\.gradle\caches\transforms-3\86245c0e159f0c4122a3f912d0f221ae\transformed\firebase-storage-20.0.1\AndroidManifest.xml:27:5-67
+	android:name
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:6:5-77
+	android:name
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:6:22-74
+application
+ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:8:5-61:19
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\brayt\.gradle\caches\transforms-3\332e92d9222ee833a46fa947d8d53b86\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\brayt\.gradle\caches\transforms-3\332e92d9222ee833a46fa947d8d53b86\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\brayt\.gradle\caches\transforms-3\354c41b5f758a0c6d6cd607fd38ff469\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\brayt\.gradle\caches\transforms-3\354c41b5f758a0c6d6cd607fd38ff469\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\brayt\.gradle\caches\transforms-3\ca8c03636d0a287d7d554f7dfdfacf5b\transformed\glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\brayt\.gradle\caches\transforms-3\ca8c03636d0a287d7d554f7dfdfacf5b\transformed\glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\469b054b9ced2914a64722b602a67fc1\transformed\firebase-auth-ktx-21.0.3\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\469b054b9ced2914a64722b602a67fc1\transformed\firebase-auth-ktx-21.0.3\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-database-ktx:20.0.4] C:\Users\brayt\.gradle\caches\transforms-3\bcb8829b99bc67011a341e2c87c7db16\transformed\firebase-database-ktx-20.0.4\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-database-ktx:20.0.4] C:\Users\brayt\.gradle\caches\transforms-3\bcb8829b99bc67011a341e2c87c7db16\transformed\firebase-database-ktx-20.0.4\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-storage-ktx:20.0.1] C:\Users\brayt\.gradle\caches\transforms-3\32699f32ce7d0710b86409ed3a7c6ea7\transformed\firebase-storage-ktx-20.0.1\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-storage-ktx:20.0.1] C:\Users\brayt\.gradle\caches\transforms-3\32699f32ce7d0710b86409ed3a7c6ea7\transformed\firebase-storage-ktx-20.0.1\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.0] C:\Users\brayt\.gradle\caches\transforms-3\d92f63cf85c55bbb65c447758e26a507\transformed\firebase-common-ktx-20.1.0\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.0] C:\Users\brayt\.gradle\caches\transforms-3\d92f63cf85c55bbb65c447758e26a507\transformed\firebase-common-ktx-20.1.0\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-database:20.0.4] C:\Users\brayt\.gradle\caches\transforms-3\10e403ca996d8358a037486a60e9db8b\transformed\firebase-database-20.0.4\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:20.0.4] C:\Users\brayt\.gradle\caches\transforms-3\10e403ca996d8358a037486a60e9db8b\transformed\firebase-database-20.0.4\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\brayt\.gradle\caches\transforms-3\86245c0e159f0c4122a3f912d0f221ae\transformed\firebase-storage-20.0.1\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\brayt\.gradle\caches\transforms-3\86245c0e159f0c4122a3f912d0f221ae\transformed\firebase-storage-20.0.1\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\brayt\.gradle\caches\transforms-3\26f1bf0169bb4d28ec48d2859fee794f\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\brayt\.gradle\caches\transforms-3\26f1bf0169bb4d28ec48d2859fee794f\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\brayt\.gradle\caches\transforms-3\9c53c566d63d2b654bfcf062d6436360\transformed\firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\brayt\.gradle\caches\transforms-3\9c53c566d63d2b654bfcf062d6436360\transformed\firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-common:20.1.0] C:\Users\brayt\.gradle\caches\transforms-3\a49b775625bdc648be59af59f36fc96a\transformed\firebase-common-20.1.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.1.0] C:\Users\brayt\.gradle\caches\transforms-3\a49b775625bdc648be59af59f36fc96a\transformed\firebase-common-20.1.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\brayt\.gradle\caches\transforms-3\cccb9504838f535a292de0eaefad851d\transformed\play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\brayt\.gradle\caches\transforms-3\cccb9504838f535a292de0eaefad851d\transformed\play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\brayt\.gradle\caches\transforms-3\9a78a74798a6e90d809685a21a88d902\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\brayt\.gradle\caches\transforms-3\9a78a74798a6e90d809685a21a88d902\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\brayt\.gradle\caches\transforms-3\3133069cabdb6240d3026d9089260abc\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\brayt\.gradle\caches\transforms-3\3133069cabdb6240d3026d9089260abc\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\brayt\.gradle\caches\transforms-3\32242d14bb92f5b99c4d11010ad5c307\transformed\play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\brayt\.gradle\caches\transforms-3\32242d14bb92f5b99c4d11010ad5c307\transformed\play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\brayt\.gradle\caches\transforms-3\0a6e725b5cd926d88f40799b5736ce68\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\brayt\.gradle\caches\transforms-3\0a6e725b5cd926d88f40799b5736ce68\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\bfd38c1d7bed4470f2889abfacf6d1c9\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\bfd38c1d7bed4470f2889abfacf6d1c9\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\61503bda008b69554a58ce711449c738\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\61503bda008b69554a58ce711449c738\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\brayt\.gradle\caches\transforms-3\256359c9505432507558def56c015fe7\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\brayt\.gradle\caches\transforms-3\256359c9505432507558def56c015fe7\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\brayt\.gradle\caches\transforms-3\95308db0332c64d4d1e1ae48053fc0d3\transformed\gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\brayt\.gradle\caches\transforms-3\95308db0332c64d4d1e1ae48053fc0d3\transformed\gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\brayt\.gradle\caches\transforms-3\9d32782690545645109e135cfe2ca1dc\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\brayt\.gradle\caches\transforms-3\9d32782690545645109e135cfe2ca1dc\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\brayt\.gradle\caches\transforms-3\3398cbe7ec4bb8c9bfa1739436f07cb0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\brayt\.gradle\caches\transforms-3\3398cbe7ec4bb8c9bfa1739436f07cb0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\brayt\.gradle\caches\transforms-3\67c06f6aeb6a0e296c9ca017d463a438\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\brayt\.gradle\caches\transforms-3\67c06f6aeb6a0e296c9ca017d463a438\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\brayt\.gradle\caches\transforms-3\1726898b493c7215295802f7e1094238\transformed\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\brayt\.gradle\caches\transforms-3\1726898b493c7215295802f7e1094238\transformed\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\brayt\.gradle\caches\transforms-3\256359c9505432507558def56c015fe7\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:13:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:11:9-54
+	tools:targetApi
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:16:9-29
+	android:icon
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:12:9-44
+	android:allowBackup
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:15:9-60
+	android:dataExtractionRules
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:10:9-65
+activity#com.example.mealmatrix.GoalsSearch
+ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:17:9-19:40
+	android:exported
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:18:13-40
+activity#com.example.mealmatrix.GoalList
+ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:20:9-22:40
+	android:exported
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:21:13-37
+activity#com.example.mealmatrix.FoodList
+ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:24:13-37
+activity#com.example.mealmatrix.WorkoutList
+ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:26:9-28:40
+	android:exported
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:27:13-40
+activity#com.example.mealmatrix.Goals
+ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:29:9-31:40
+	android:exported
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:30:13-34
+activity#com.example.mealmatrix.WorkoutTracker
+ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:33:13-43
+activity#com.example.mealmatrix.Timer
+ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:35:9-37:40
+	android:exported
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:36:13-34
+activity#com.example.mealmatrix.Camera
+ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:38:9-40:40
+	android:exported
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:39:13-35
+activity#com.example.mealmatrix.MainActivity
+ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:41:9-43:40
+	android:exported
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:42:13-41
+activity#com.example.mealmatrix.Register
+ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:44:9-46:40
+	android:exported
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:45:13-37
+activity#com.example.mealmatrix.Login
+ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:47:9-49:40
+	android:exported
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:49:13-37
+	android:name
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:48:13-34
+activity#com.example.mealmatrix.Splash
+ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:50:9-60:20
+	android:label
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:53:13-45
+	android:exported
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:52:13-36
+	android:theme
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:54:13-64
+	android:name
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:51:13-35
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:55:13-59:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:56:17-69
+	android:name
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:56:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:58:17-77
+	android:name
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml:58:27-74
+uses-sdk
+INJECTED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.4.1] C:\Users\brayt\.gradle\caches\transforms-3\ed7d86213481e7fcc04dcaa4f0595d5e\transformed\viewbinding-7.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:7.4.1] C:\Users\brayt\.gradle\caches\transforms-3\ed7d86213481e7fcc04dcaa4f0595d5e\transformed\viewbinding-7.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] C:\Users\brayt\.gradle\caches\transforms-3\cda250af8b3673c0ed650b6048eef29d\transformed\navigation-ui-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] C:\Users\brayt\.gradle\caches\transforms-3\cda250af8b3673c0ed650b6048eef29d\transformed\navigation-ui-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.3] C:\Users\brayt\.gradle\caches\transforms-3\208ef6b5405797bd606595c2a56d9516\transformed\navigation-ui-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.3] C:\Users\brayt\.gradle\caches\transforms-3\208ef6b5405797bd606595c2a56d9516\transformed\navigation-ui-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\brayt\.gradle\caches\transforms-3\332e92d9222ee833a46fa947d8d53b86\transformed\material-1.9.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\brayt\.gradle\caches\transforms-3\332e92d9222ee833a46fa947d8d53b86\transformed\material-1.9.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\brayt\.gradle\caches\transforms-3\354c41b5f758a0c6d6cd607fd38ff469\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\brayt\.gradle\caches\transforms-3\354c41b5f758a0c6d6cd607fd38ff469\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\brayt\.gradle\caches\transforms-3\3d56b934d2055f59b3e400691321756b\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\brayt\.gradle\caches\transforms-3\3d56b934d2055f59b3e400691321756b\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\brayt\.gradle\caches\transforms-3\9ea4a9ad5810da0e44c1dc5d5468dfd7\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\brayt\.gradle\caches\transforms-3\9ea4a9ad5810da0e44c1dc5d5468dfd7\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\brayt\.gradle\caches\transforms-3\ca8c03636d0a287d7d554f7dfdfacf5b\transformed\glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\brayt\.gradle\caches\transforms-3\ca8c03636d0a287d7d554f7dfdfacf5b\transformed\glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\1502967048f222ef2d216a7787972143\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\1502967048f222ef2d216a7787972143\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\469b054b9ced2914a64722b602a67fc1\transformed\firebase-auth-ktx-21.0.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\469b054b9ced2914a64722b602a67fc1\transformed\firebase-auth-ktx-21.0.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:21:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] C:\Users\brayt\.gradle\caches\transforms-3\b146b0655ef448b5a0fa025a7d194295\transformed\navigation-fragment-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] C:\Users\brayt\.gradle\caches\transforms-3\b146b0655ef448b5a0fa025a7d194295\transformed\navigation-fragment-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] C:\Users\brayt\.gradle\caches\transforms-3\ef704ce87eb678a7b4dcf8b722aacccb\transformed\navigation-fragment-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] C:\Users\brayt\.gradle\caches\transforms-3\ef704ce87eb678a7b4dcf8b722aacccb\transformed\navigation-fragment-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.4] C:\Users\brayt\.gradle\caches\transforms-3\664d382528747b1da97f7e91c12eabb5\transformed\fragment-ktx-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.4] C:\Users\brayt\.gradle\caches\transforms-3\664d382528747b1da97f7e91c12eabb5\transformed\fragment-ktx-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database-ktx:20.0.4] C:\Users\brayt\.gradle\caches\transforms-3\bcb8829b99bc67011a341e2c87c7db16\transformed\firebase-database-ktx-20.0.4\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-database-ktx:20.0.4] C:\Users\brayt\.gradle\caches\transforms-3\bcb8829b99bc67011a341e2c87c7db16\transformed\firebase-database-ktx-20.0.4\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-storage-ktx:20.0.1] C:\Users\brayt\.gradle\caches\transforms-3\32699f32ce7d0710b86409ed3a7c6ea7\transformed\firebase-storage-ktx-20.0.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-storage-ktx:20.0.1] C:\Users\brayt\.gradle\caches\transforms-3\32699f32ce7d0710b86409ed3a7c6ea7\transformed\firebase-storage-ktx-20.0.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.0] C:\Users\brayt\.gradle\caches\transforms-3\d92f63cf85c55bbb65c447758e26a507\transformed\firebase-common-ktx-20.1.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.0] C:\Users\brayt\.gradle\caches\transforms-3\d92f63cf85c55bbb65c447758e26a507\transformed\firebase-common-ktx-20.1.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-database:20.0.4] C:\Users\brayt\.gradle\caches\transforms-3\10e403ca996d8358a037486a60e9db8b\transformed\firebase-database-20.0.4\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:20.0.4] C:\Users\brayt\.gradle\caches\transforms-3\10e403ca996d8358a037486a60e9db8b\transformed\firebase-database-20.0.4\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\brayt\.gradle\caches\transforms-3\86245c0e159f0c4122a3f912d0f221ae\transformed\firebase-storage-20.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\brayt\.gradle\caches\transforms-3\86245c0e159f0c4122a3f912d0f221ae\transformed\firebase-storage-20.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\brayt\.gradle\caches\transforms-3\26f1bf0169bb4d28ec48d2859fee794f\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\brayt\.gradle\caches\transforms-3\26f1bf0169bb4d28ec48d2859fee794f\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\brayt\.gradle\caches\transforms-3\9c53c566d63d2b654bfcf062d6436360\transformed\firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\brayt\.gradle\caches\transforms-3\9c53c566d63d2b654bfcf062d6436360\transformed\firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.1.0] C:\Users\brayt\.gradle\caches\transforms-3\a49b775625bdc648be59af59f36fc96a\transformed\firebase-common-20.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.1.0] C:\Users\brayt\.gradle\caches\transforms-3\a49b775625bdc648be59af59f36fc96a\transformed\firebase-common-20.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\brayt\.gradle\caches\transforms-3\e1d551d4fa90ec6fa2a94169385c13c4\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\brayt\.gradle\caches\transforms-3\e1d551d4fa90ec6fa2a94169385c13c4\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\brayt\.gradle\caches\transforms-3\cccb9504838f535a292de0eaefad851d\transformed\play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\brayt\.gradle\caches\transforms-3\cccb9504838f535a292de0eaefad851d\transformed\play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\brayt\.gradle\caches\transforms-3\7638d7317842704377531c5b38384473\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\brayt\.gradle\caches\transforms-3\7638d7317842704377531c5b38384473\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\brayt\.gradle\caches\transforms-3\9a78a74798a6e90d809685a21a88d902\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\brayt\.gradle\caches\transforms-3\9a78a74798a6e90d809685a21a88d902\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\brayt\.gradle\caches\transforms-3\3133069cabdb6240d3026d9089260abc\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\brayt\.gradle\caches\transforms-3\3133069cabdb6240d3026d9089260abc\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\brayt\.gradle\caches\transforms-3\32242d14bb92f5b99c4d11010ad5c307\transformed\play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\brayt\.gradle\caches\transforms-3\32242d14bb92f5b99c4d11010ad5c307\transformed\play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\brayt\.gradle\caches\transforms-3\4d6ef77c7c4b45838addfe9648eaf496\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\brayt\.gradle\caches\transforms-3\4d6ef77c7c4b45838addfe9648eaf496\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] C:\Users\brayt\.gradle\caches\transforms-3\5c3c6cb8041f3a9afb137b9601a97af7\transformed\navigation-runtime-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] C:\Users\brayt\.gradle\caches\transforms-3\5c3c6cb8041f3a9afb137b9601a97af7\transformed\navigation-runtime-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] C:\Users\brayt\.gradle\caches\transforms-3\2f7e1008377c4e289df5ddd1efe217fc\transformed\navigation-runtime-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] C:\Users\brayt\.gradle\caches\transforms-3\2f7e1008377c4e289df5ddd1efe217fc\transformed\navigation-runtime-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.6.0] C:\Users\brayt\.gradle\caches\transforms-3\c0ec1fac45c94d13aeb981253d04ae41\transformed\activity-ktx-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.0] C:\Users\brayt\.gradle\caches\transforms-3\c0ec1fac45c94d13aeb981253d04ae41\transformed\activity-ktx-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\brayt\.gradle\caches\transforms-3\6ed5c3cb4557bcbffd464bd438199821\transformed\activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\brayt\.gradle\caches\transforms-3\6ed5c3cb4557bcbffd464bd438199821\transformed\activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\brayt\.gradle\caches\transforms-3\4e0f9cc1e8b5f7dfd08d0e9d2aa6d183\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\brayt\.gradle\caches\transforms-3\4e0f9cc1e8b5f7dfd08d0e9d2aa6d183\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\brayt\.gradle\caches\transforms-3\0a6e725b5cd926d88f40799b5736ce68\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\brayt\.gradle\caches\transforms-3\0a6e725b5cd926d88f40799b5736ce68\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\1019d298faf82cc61df8261ae9e22a9c\transformed\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\1019d298faf82cc61df8261ae9e22a9c\transformed\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\cb9de18f5c55fead2b9a17b5cf402d92\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\cb9de18f5c55fead2b9a17b5cf402d92\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\brayt\.gradle\caches\transforms-3\bdf2a544c6cd87fbf9f7a323de19b6a9\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\brayt\.gradle\caches\transforms-3\bdf2a544c6cd87fbf9f7a323de19b6a9\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\brayt\.gradle\caches\transforms-3\0211082ebf606da4366a8b26434d4474\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\brayt\.gradle\caches\transforms-3\0211082ebf606da4366a8b26434d4474\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\51019e01c1558a85db5c95a792f709e6\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\51019e01c1558a85db5c95a792f709e6\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\brayt\.gradle\caches\transforms-3\fec6fef560056c066cb80eea3cf1e5f1\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\brayt\.gradle\caches\transforms-3\fec6fef560056c066cb80eea3cf1e5f1\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\brayt\.gradle\caches\transforms-3\7ac0e00923bdc74bf4c65e66dfa85973\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\brayt\.gradle\caches\transforms-3\7ac0e00923bdc74bf4c65e66dfa85973\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime-ktx:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\97ed688846e116ab212fb1f9e0183ff0\transformed\work-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime-ktx:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\97ed688846e116ab212fb1f9e0183ff0\transformed\work-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] C:\Users\brayt\.gradle\caches\transforms-3\632ae7760f5160096671dece4cdfa9b3\transformed\navigation-common-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] C:\Users\brayt\.gradle\caches\transforms-3\632ae7760f5160096671dece4cdfa9b3\transformed\navigation-common-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] C:\Users\brayt\.gradle\caches\transforms-3\18fc2d7f192937458ed7003471e425c3\transformed\navigation-common-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] C:\Users\brayt\.gradle\caches\transforms-3\18fc2d7f192937458ed7003471e425c3\transformed\navigation-common-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\b00598b3e56db12d1b50cfdae3a5c2cc\transformed\lifecycle-runtime-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\b00598b3e56db12d1b50cfdae3a5c2cc\transformed\lifecycle-runtime-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\6fb59240fd1590260f9954829d23e346\transformed\lifecycle-service-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\6fb59240fd1590260f9954829d23e346\transformed\lifecycle-service-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\brayt\.gradle\caches\transforms-3\bba2612cafe61045587b53134cd3335a\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\brayt\.gradle\caches\transforms-3\bba2612cafe61045587b53134cd3335a\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\brayt\.gradle\caches\transforms-3\a89189fea0f2379f67a6d15ac573ed9f\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\brayt\.gradle\caches\transforms-3\a89189fea0f2379f67a6d15ac573ed9f\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\08c001180caff856c9a28c05a0e6cf43\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\08c001180caff856c9a28c05a0e6cf43\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\bfd38c1d7bed4470f2889abfacf6d1c9\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\bfd38c1d7bed4470f2889abfacf6d1c9\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\92fe515977e83faabcb7c6827e6b6c6f\transformed\lifecycle-livedata-core-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\92fe515977e83faabcb7c6827e6b6c6f\transformed\lifecycle-livedata-core-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\4f7f86b60790fadeddb92d0c76be4c55\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\4f7f86b60790fadeddb92d0c76be4c55\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\055d4264874d663c777b059a56921f1c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\055d4264874d663c777b059a56921f1c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\da25afe9b9d0d07ef188f23723ea550a\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\da25afe9b9d0d07ef188f23723ea550a\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\710e8bd048c04ea0797d684a259aa685\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\710e8bd048c04ea0797d684a259aa685\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\13c516caaecd9d15cfd3a6040b9ab03a\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\13c516caaecd9d15cfd3a6040b9ab03a\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\brayt\.gradle\caches\transforms-3\efca7ead61e4cfe09fb0d382cff176d2\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\brayt\.gradle\caches\transforms-3\efca7ead61e4cfe09fb0d382cff176d2\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\brayt\.gradle\caches\transforms-3\81a771193f10b4b6db84600fb34f78b9\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\brayt\.gradle\caches\transforms-3\81a771193f10b4b6db84600fb34f78b9\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\brayt\.gradle\caches\transforms-3\517b6256912f36d5fe1223cc32d3e243\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\brayt\.gradle\caches\transforms-3\517b6256912f36d5fe1223cc32d3e243\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\53854e14829ab5e97cff60a965055508\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\53854e14829ab5e97cff60a965055508\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\brayt\.gradle\caches\transforms-3\6366adedfaec4bf098b79d1bda16edad\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\brayt\.gradle\caches\transforms-3\6366adedfaec4bf098b79d1bda16edad\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\brayt\.gradle\caches\transforms-3\7fd6190ff87c72feaf45962a6fb965fb\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\brayt\.gradle\caches\transforms-3\7fd6190ff87c72feaf45962a6fb965fb\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\61503bda008b69554a58ce711449c738\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\61503bda008b69554a58ce711449c738\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\3bd5283283fb7399a914c4f2612aabf6\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\3bd5283283fb7399a914c4f2612aabf6\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\dbb8c38ef7f22920dd7bf68cb4b186ed\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\dbb8c38ef7f22920dd7bf68cb4b186ed\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\brayt\.gradle\caches\transforms-3\256359c9505432507558def56c015fe7\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\brayt\.gradle\caches\transforms-3\256359c9505432507558def56c015fe7\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\cf48ad8c8213fd1616a29db85dec6202\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\cf48ad8c8213fd1616a29db85dec6202\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\5c05ee953ce3fc9b7596ab076ed45d5f\transformed\lifecycle-livedata-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\5c05ee953ce3fc9b7596ab076ed45d5f\transformed\lifecycle-livedata-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\e6dc17dc6306a63f6466c3cff455c67e\transformed\lifecycle-viewmodel-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\e6dc17dc6306a63f6466c3cff455c67e\transformed\lifecycle-viewmodel-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\b4b16ce128e658d4fb9a6c34a4bfbcac\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\b4b16ce128e658d4fb9a6c34a4bfbcac\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\25c9b7bdcdedba044692f3695a5af720\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\25c9b7bdcdedba044692f3695a5af720\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\brayt\.gradle\caches\transforms-3\abf4d5f03a4e424713604aa2911f5c05\transformed\firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\brayt\.gradle\caches\transforms-3\abf4d5f03a4e424713604aa2911f5c05\transformed\firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\brayt\.gradle\caches\transforms-3\95308db0332c64d4d1e1ae48053fc0d3\transformed\gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\brayt\.gradle\caches\transforms-3\95308db0332c64d4d1e1ae48053fc0d3\transformed\gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\1c57c028cfd2095dd05a306a0347e064\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\1c57c028cfd2095dd05a306a0347e064\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\brayt\.gradle\caches\transforms-3\9d32782690545645109e135cfe2ca1dc\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\brayt\.gradle\caches\transforms-3\9d32782690545645109e135cfe2ca1dc\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\brayt\.gradle\caches\transforms-3\3398cbe7ec4bb8c9bfa1739436f07cb0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\brayt\.gradle\caches\transforms-3\3398cbe7ec4bb8c9bfa1739436f07cb0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\brayt\.gradle\caches\transforms-3\67c06f6aeb6a0e296c9ca017d463a438\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\brayt\.gradle\caches\transforms-3\67c06f6aeb6a0e296c9ca017d463a438\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\a505a3ae5f2941879317b14c4b04d828\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\a505a3ae5f2941879317b14c4b04d828\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\brayt\.gradle\caches\transforms-3\1726898b493c7215295802f7e1094238\transformed\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\brayt\.gradle\caches\transforms-3\1726898b493c7215295802f7e1094238\transformed\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\brayt\.gradle\caches\transforms-3\90d223e8c796a49c881cde149d6d4fa7\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\brayt\.gradle\caches\transforms-3\90d223e8c796a49c881cde149d6d4fa7\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\37baa4b8c12e2f716d7b677e7052bc9e\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\37baa4b8c12e2f716d7b677e7052bc9e\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\brayt\.gradle\caches\transforms-3\8087a60deac40dc5fb959a09f03ba3d0\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\brayt\.gradle\caches\transforms-3\8087a60deac40dc5fb959a09f03ba3d0\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\brayt\.gradle\caches\transforms-3\999a9ee89a17bec1d3bf096e71758cdc\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\brayt\.gradle\caches\transforms-3\999a9ee89a17bec1d3bf096e71758cdc\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\0b7f14c5d9fed764e36e3d700540d4e3\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\0b7f14c5d9fed764e36e3d700540d4e3\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\729013ad4ef2b988aa2cca031cc00bd3\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\729013ad4ef2b988aa2cca031cc00bd3\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\9a81d401912323b9ffbb11fe37fd5b76\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\9a81d401912323b9ffbb11fe37fd5b76\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\brayt\.gradle\caches\transforms-3\18e7f68519c008b481da0cf75fc46559\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\brayt\.gradle\caches\transforms-3\18e7f68519c008b481da0cf75fc46559\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\src\main\AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth-ktx:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\469b054b9ced2914a64722b602a67fc1\transformed\firebase-auth-ktx-21.0.3\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-database-ktx:20.0.4] C:\Users\brayt\.gradle\caches\transforms-3\bcb8829b99bc67011a341e2c87c7db16\transformed\firebase-database-ktx-20.0.4\AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-database-ktx:20.0.4] C:\Users\brayt\.gradle\caches\transforms-3\bcb8829b99bc67011a341e2c87c7db16\transformed\firebase-database-ktx-20.0.4\AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-storage-ktx:20.0.1] C:\Users\brayt\.gradle\caches\transforms-3\32699f32ce7d0710b86409ed3a7c6ea7\transformed\firebase-storage-ktx-20.0.1\AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-storage-ktx:20.0.1] C:\Users\brayt\.gradle\caches\transforms-3\32699f32ce7d0710b86409ed3a7c6ea7\transformed\firebase-storage-ktx-20.0.1\AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.0] C:\Users\brayt\.gradle\caches\transforms-3\d92f63cf85c55bbb65c447758e26a507\transformed\firebase-common-ktx-20.1.0\AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.0] C:\Users\brayt\.gradle\caches\transforms-3\d92f63cf85c55bbb65c447758e26a507\transformed\firebase-common-ktx-20.1.0\AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-database:20.0.4] C:\Users\brayt\.gradle\caches\transforms-3\10e403ca996d8358a037486a60e9db8b\transformed\firebase-database-20.0.4\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-database:20.0.4] C:\Users\brayt\.gradle\caches\transforms-3\10e403ca996d8358a037486a60e9db8b\transformed\firebase-database-20.0.4\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\brayt\.gradle\caches\transforms-3\86245c0e159f0c4122a3f912d0f221ae\transformed\firebase-storage-20.0.1\AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\brayt\.gradle\caches\transforms-3\86245c0e159f0c4122a3f912d0f221ae\transformed\firebase-storage-20.0.1\AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-common:20.1.0] C:\Users\brayt\.gradle\caches\transforms-3\a49b775625bdc648be59af59f36fc96a\transformed\firebase-common-20.1.0\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.1.0] C:\Users\brayt\.gradle\caches\transforms-3\a49b775625bdc648be59af59f36fc96a\transformed\firebase-common-20.1.0\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth-ktx:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\469b054b9ced2914a64722b602a67fc1\transformed\firebase-auth-ktx-21.0.3\AndroidManifest.xml:10:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\brayt\.gradle\caches\transforms-3\a49b775625bdc648be59af59f36fc96a\transformed\firebase-common-20.1.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\brayt\.gradle\caches\transforms-3\a49b775625bdc648be59af59f36fc96a\transformed\firebase-common-20.1.0\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth-ktx:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\469b054b9ced2914a64722b602a67fc1\transformed\firebase-auth-ktx-21.0.3\AndroidManifest.xml:9:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthKtxRegistrar
+ADDED from [com.google.firebase:firebase-auth-ktx:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\469b054b9ced2914a64722b602a67fc1\transformed\firebase-auth-ktx-21.0.3\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth-ktx:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\469b054b9ced2914a64722b602a67fc1\transformed\firebase-auth-ktx-21.0.3\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth-ktx:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\469b054b9ced2914a64722b602a67fc1\transformed\firebase-auth-ktx-21.0.3\AndroidManifest.xml:12:17-116
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-database:20.0.4] C:\Users\brayt\.gradle\caches\transforms-3\10e403ca996d8358a037486a60e9db8b\transformed\firebase-database-20.0.4\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:20.0.4] C:\Users\brayt\.gradle\caches\transforms-3\10e403ca996d8358a037486a60e9db8b\transformed\firebase-database-20.0.4\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\brayt\.gradle\caches\transforms-3\86245c0e159f0c4122a3f912d0f221ae\transformed\firebase-storage-20.0.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\brayt\.gradle\caches\transforms-3\86245c0e159f0c4122a3f912d0f221ae\transformed\firebase-storage-20.0.1\AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:24:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:37:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:39:17-42:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:41:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:40:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:42:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:51:13-61:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:67:13-69:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:69:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\brayt\.gradle\caches\transforms-3\c1b4f83079322b89819760f34ecec3b3\transformed\firebase-auth-21.0.3\AndroidManifest.xml:68:17-109
+meta-data#com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseKtxRegistrar
+ADDED from [com.google.firebase:firebase-database-ktx:20.0.4] C:\Users\brayt\.gradle\caches\transforms-3\bcb8829b99bc67011a341e2c87c7db16\transformed\firebase-database-ktx-20.0.4\AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database-ktx:20.0.4] C:\Users\brayt\.gradle\caches\transforms-3\bcb8829b99bc67011a341e2c87c7db16\transformed\firebase-database-ktx-20.0.4\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database-ktx:20.0.4] C:\Users\brayt\.gradle\caches\transforms-3\bcb8829b99bc67011a341e2c87c7db16\transformed\firebase-database-ktx-20.0.4\AndroidManifest.xml:16:17-124
+meta-data#com.google.firebase.components:com.google.firebase.storage.ktx.FirebaseStorageKtxRegistrar
+ADDED from [com.google.firebase:firebase-storage-ktx:20.0.1] C:\Users\brayt\.gradle\caches\transforms-3\32699f32ce7d0710b86409ed3a7c6ea7\transformed\firebase-storage-ktx-20.0.1\AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage-ktx:20.0.1] C:\Users\brayt\.gradle\caches\transforms-3\32699f32ce7d0710b86409ed3a7c6ea7\transformed\firebase-storage-ktx-20.0.1\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage-ktx:20.0.1] C:\Users\brayt\.gradle\caches\transforms-3\32699f32ce7d0710b86409ed3a7c6ea7\transformed\firebase-storage-ktx-20.0.1\AndroidManifest.xml:16:17-122
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.1.0] C:\Users\brayt\.gradle\caches\transforms-3\d92f63cf85c55bbb65c447758e26a507\transformed\firebase-common-ktx-20.1.0\AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.1.0] C:\Users\brayt\.gradle\caches\transforms-3\d92f63cf85c55bbb65c447758e26a507\transformed\firebase-common-ktx-20.1.0\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.1.0] C:\Users\brayt\.gradle\caches\transforms-3\d92f63cf85c55bbb65c447758e26a507\transformed\firebase-common-ktx-20.1.0\AndroidManifest.xml:16:17-113
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:20.0.4] C:\Users\brayt\.gradle\caches\transforms-3\10e403ca996d8358a037486a60e9db8b\transformed\firebase-database-20.0.4\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.0.4] C:\Users\brayt\.gradle\caches\transforms-3\10e403ca996d8358a037486a60e9db8b\transformed\firebase-database-20.0.4\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.0.4] C:\Users\brayt\.gradle\caches\transforms-3\10e403ca996d8358a037486a60e9db8b\transformed\firebase-database-20.0.4\AndroidManifest.xml:33:17-109
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\brayt\.gradle\caches\transforms-3\86245c0e159f0c4122a3f912d0f221ae\transformed\firebase-storage-20.0.1\AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\brayt\.gradle\caches\transforms-3\86245c0e159f0c4122a3f912d0f221ae\transformed\firebase-storage-20.0.1\AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\brayt\.gradle\caches\transforms-3\86245c0e159f0c4122a3f912d0f221ae\transformed\firebase-storage-20.0.1\AndroidManifest.xml:34:17-107
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\brayt\.gradle\caches\transforms-3\a49b775625bdc648be59af59f36fc96a\transformed\firebase-common-20.1.0\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\brayt\.gradle\caches\transforms-3\a49b775625bdc648be59af59f36fc96a\transformed\firebase-common-20.1.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\brayt\.gradle\caches\transforms-3\a49b775625bdc648be59af59f36fc96a\transformed\firebase-common-20.1.0\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\brayt\.gradle\caches\transforms-3\a49b775625bdc648be59af59f36fc96a\transformed\firebase-common-20.1.0\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\brayt\.gradle\caches\transforms-3\a49b775625bdc648be59af59f36fc96a\transformed\firebase-common-20.1.0\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\brayt\.gradle\caches\transforms-3\a49b775625bdc648be59af59f36fc96a\transformed\firebase-common-20.1.0\AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\brayt\.gradle\caches\transforms-3\9a78a74798a6e90d809685a21a88d902\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\brayt\.gradle\caches\transforms-3\9a78a74798a6e90d809685a21a88d902\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\brayt\.gradle\caches\transforms-3\9a78a74798a6e90d809685a21a88d902\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\brayt\.gradle\caches\transforms-3\9a78a74798a6e90d809685a21a88d902\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\brayt\.gradle\caches\transforms-3\32242d14bb92f5b99c4d11010ad5c307\transformed\play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\brayt\.gradle\caches\transforms-3\32242d14bb92f5b99c4d11010ad5c307\transformed\play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\brayt\.gradle\caches\transforms-3\32242d14bb92f5b99c4d11010ad5c307\transformed\play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\brayt\.gradle\caches\transforms-3\0a6e725b5cd926d88f40799b5736ce68\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:31:9-39:20
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:31:9-39:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\bfd38c1d7bed4470f2889abfacf6d1c9\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\bfd38c1d7bed4470f2889abfacf6d1c9\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\brayt\.gradle\caches\transforms-3\3398cbe7ec4bb8c9bfa1739436f07cb0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\brayt\.gradle\caches\transforms-3\3398cbe7ec4bb8c9bfa1739436f07cb0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\brayt\.gradle\caches\transforms-3\67c06f6aeb6a0e296c9ca017d463a438\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\brayt\.gradle\caches\transforms-3\67c06f6aeb6a0e296c9ca017d463a438\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\brayt\.gradle\caches\transforms-3\0a6e725b5cd926d88f40799b5736ce68\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\brayt\.gradle\caches\transforms-3\0a6e725b5cd926d88f40799b5736ce68\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\brayt\.gradle\caches\transforms-3\0a6e725b5cd926d88f40799b5736ce68\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\brayt\.gradle\caches\transforms-3\0a6e725b5cd926d88f40799b5736ce68\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\brayt\.gradle\caches\transforms-3\0a6e725b5cd926d88f40799b5736ce68\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\brayt\.gradle\caches\transforms-3\0a6e725b5cd926d88f40799b5736ce68\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\brayt\.gradle\caches\transforms-3\0a6e725b5cd926d88f40799b5736ce68\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:25:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:27:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:28:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:28:22-74
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:36:13-38:52
+	android:value
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:38:17-49
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:37:17-68
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:41:9-46:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:44:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:45:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:46:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:43:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:42:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:47:9-53:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:50:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:51:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:52:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:53:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:49:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:48:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:54:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:57:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:58:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:55:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:116:13-120:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:117:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:117:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\brayt\.gradle\caches\transforms-3\8bbefa3847fd1627afec6152c81d84a1\transformed\work-runtime-2.7.0\AndroidManifest.xml:140:25-85
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\bfd38c1d7bed4470f2889abfacf6d1c9\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\bfd38c1d7bed4470f2889abfacf6d1c9\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\brayt\.gradle\caches\transforms-3\bfd38c1d7bed4470f2889abfacf6d1c9\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\61503bda008b69554a58ce711449c738\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\61503bda008b69554a58ce711449c738\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\61503bda008b69554a58ce711449c738\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\61503bda008b69554a58ce711449c738\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\61503bda008b69554a58ce711449c738\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\brayt\.gradle\caches\transforms-3\61503bda008b69554a58ce711449c738\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\brayt\.gradle\caches\transforms-3\256359c9505432507558def56c015fe7\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\brayt\.gradle\caches\transforms-3\256359c9505432507558def56c015fe7\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\brayt\.gradle\caches\transforms-3\256359c9505432507558def56c015fe7\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.example.mealmatrix.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\brayt\.gradle\caches\transforms-3\256359c9505432507558def56c015fe7\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\brayt\.gradle\caches\transforms-3\256359c9505432507558def56c015fe7\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\brayt\.gradle\caches\transforms-3\256359c9505432507558def56c015fe7\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\brayt\.gradle\caches\transforms-3\256359c9505432507558def56c015fe7\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\brayt\.gradle\caches\transforms-3\256359c9505432507558def56c015fe7\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.mealmatrix.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\brayt\.gradle\caches\transforms-3\256359c9505432507558def56c015fe7\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\brayt\.gradle\caches\transforms-3\256359c9505432507558def56c015fe7\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\brayt\.gradle\caches\transforms-3\3398cbe7ec4bb8c9bfa1739436f07cb0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\brayt\.gradle\caches\transforms-3\3398cbe7ec4bb8c9bfa1739436f07cb0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\brayt\.gradle\caches\transforms-3\3398cbe7ec4bb8c9bfa1739436f07cb0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\brayt\.gradle\caches\transforms-3\3398cbe7ec4bb8c9bfa1739436f07cb0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\brayt\.gradle\caches\transforms-3\3398cbe7ec4bb8c9bfa1739436f07cb0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\brayt\.gradle\caches\transforms-3\3398cbe7ec4bb8c9bfa1739436f07cb0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\brayt\.gradle\caches\transforms-3\3398cbe7ec4bb8c9bfa1739436f07cb0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\brayt\.gradle\caches\transforms-3\3398cbe7ec4bb8c9bfa1739436f07cb0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\brayt\.gradle\caches\transforms-3\3398cbe7ec4bb8c9bfa1739436f07cb0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\brayt\.gradle\caches\transforms-3\3398cbe7ec4bb8c9bfa1739436f07cb0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\brayt\.gradle\caches\transforms-3\3398cbe7ec4bb8c9bfa1739436f07cb0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\brayt\.gradle\caches\transforms-3\3398cbe7ec4bb8c9bfa1739436f07cb0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\brayt\.gradle\caches\transforms-3\3398cbe7ec4bb8c9bfa1739436f07cb0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\brayt\.gradle\caches\transforms-3\3398cbe7ec4bb8c9bfa1739436f07cb0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\brayt\.gradle\caches\transforms-3\3398cbe7ec4bb8c9bfa1739436f07cb0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\brayt\.gradle\caches\transforms-3\3398cbe7ec4bb8c9bfa1739436f07cb0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\brayt\.gradle\caches\transforms-3\3398cbe7ec4bb8c9bfa1739436f07cb0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\brayt\.gradle\caches\transforms-3\3398cbe7ec4bb8c9bfa1739436f07cb0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\brayt\.gradle\caches\transforms-3\3398cbe7ec4bb8c9bfa1739436f07cb0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\brayt\.gradle\caches\transforms-3\3398cbe7ec4bb8c9bfa1739436f07cb0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\brayt\.gradle\caches\transforms-3\3398cbe7ec4bb8c9bfa1739436f07cb0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\brayt\.gradle\caches\transforms-3\1726898b493c7215295802f7e1094238\transformed\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\brayt\.gradle\caches\transforms-3\1726898b493c7215295802f7e1094238\transformed\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\brayt\.gradle\caches\transforms-3\1726898b493c7215295802f7e1094238\transformed\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\brayt\.gradle\caches\transforms-3\1726898b493c7215295802f7e1094238\transformed\room-runtime-2.2.5\AndroidManifest.xml:26:13-74

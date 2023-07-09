@@ -1,0 +1,7 @@
+com.example.mealmatrix.test.app-annotation-experimental-1.3.0-0 C:\Users\brayt\.gradle\caches\transforms-3\18e7f68519c008b481da0cf75fc46559\transformed\annotation-experimental-1.3.0\res
+com.example.mealmatrix.test.app-core-1.5.0-1 C:\Users\brayt\.gradle\caches\transforms-3\3ae2907644caf8d93bc51fa727f1c309\transformed\core-1.5.0\res
+com.example.mealmatrix.test.app-androidTest-2 C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\build\generated\res\resValues\androidTest\debug
+com.example.mealmatrix.test.app-androidTest-3 C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\build\generated\res\rs\androidTest\debug
+com.example.mealmatrix.test.app-mergeDebugAndroidTestResources-4 C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.mealmatrix.test.app-mergeDebugAndroidTestResources-5 C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.mealmatrix.test.app-merged_res-6 C:\Users\brayt\AndroidStudioProjects\MealMatrix\app\build\intermediates\merged_res\debugAndroidTest

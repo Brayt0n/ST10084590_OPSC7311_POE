@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Goals">
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/minValueEditText"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"
+        android:background="#E6E6E6"
+        android:textSize="17sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textView15"
+        android:layout_marginLeft="75dp"
+        android:layout_marginTop="60dp"
+        android:layout_marginRight="75dp"
+        android:autofillHints=""
+        android:hint="@string/minimum_workout_goal"
+        android:inputType="number"
+        android:minHeight="48dp"
+        tools:ignore="VisualLintTextFieldSize" />
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/maxValueEditText"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"
+        android:background="#E6E6E6"
+        android:textSize="17sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/minValueEditText"
+        android:layout_marginLeft="75dp"
+        android:layout_marginTop="13dp"
+        android:layout_marginRight="75dp"
+        android:autofillHints=""
+        android:hint="@string/maximum_workout_goal"
+        android:inputType="number"
+        tools:ignore="TouchTargetSizeCheck,VisualLintTextFieldSize" />
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/actualWorkout"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"
+        android:layout_width="288dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/maxValueEditText"
+        android:layout_marginLeft="75dp"
+        android:layout_marginTop="13dp"
+        android:layout_marginRight="75dp"
+        android:autofillHints=""
+        android:background="#E6E6E6"
+        android:hint="@string/actual_hours_worked_out"
+        android:inputType="number"
+        android:textSize="17sp"
+        tools:ignore="TouchTargetSizeCheck,VisualLintTextFieldSize" />
+
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/toolbar4"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="27dp"
+        android:layout_marginEnd="108dp"
+        android:fontFamily="sans-serif-black"
+        android:text="@string/goal_tracker"
+        android:textColor="@color/black"
+        android:textSize="28sp" />
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme" />
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="53dp"
+        android:layout_height="53dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="0dp"
+        android:contentDescription="@string/todo_two"
+        android:onClick="back"
+        app:srcCompat="@drawable/back_icon"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <Button
+        android:id="@+id/startDateButton"
+        android:layout_width="234dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/actualWorkout"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="13dp"
+        android:layout_marginEnd="75dp"
+        android:backgroundTint="@color/black"
+        android:text="Select date of goal" />
+
+    <Button
+        android:id="@+id/dateGraphSelect"
+        android:layout_width="149dp"
+        android:layout_height="69dp"
+        android:layout_below="@+id/submitButton"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="11dp"
+        android:layout_marginTop="13dp"
+        android:layout_marginEnd="0dp"
+        android:layout_toEndOf="@+id/viewButton"
+        android:backgroundTint="@color/colRed"
+        android:text="View Graph" />
+
+    <Button
+        android:id="@+id/submitButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/startDateButton"
+        android:layout_marginTop="50dp"
+        android:text="@string/track"
+        tools:ignore="VisualLintButtonSize"></Button>
+
+    <Button
+        android:id="@+id/progressButton"
+        android:layout_width="123dp"
+        android:layout_height="68dp"
+        android:layout_below="@id/submitButton"
+        android:layout_marginTop="13dp"
+        android:layout_marginEnd="12dp"
+        android:onClick="progressCheck"
+        android:text="View Progress"
+        tools:ignore="VisualLintButtonSize"></Button>
+
+    <Button
+        android:id="@+id/viewButton"
+        android:layout_width="116dp"
+        android:layout_height="69dp"
+        android:layout_below="@id/submitButton"
+        android:layout_marginTop="13dp"
+        android:layout_toEndOf="@id/progressButton"
+        android:text="View Entries"
+        tools:ignore="VisualLintButtonSize"></Button>
+
+</RelativeLayout>

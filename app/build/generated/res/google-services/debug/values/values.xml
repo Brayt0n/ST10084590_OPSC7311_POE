@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">181450463745-ohb5icmvurcrqmjrkdm97aghuq16e1me.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">181450463745</string>
+    <string name="google_api_key" translatable="false">AIzaSyBTgrFq6FTjEocVKzr-avmdMAA_Yt_XZ74</string>
+    <string name="google_app_id" translatable="false">1:181450463745:android:0023534eddfdbd228d7e00</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBTgrFq6FTjEocVKzr-avmdMAA_Yt_XZ74</string>
+    <string name="google_storage_bucket" translatable="false">mealmatrix-f3b38.appspot.com</string>
+    <string name="project_id" translatable="false">mealmatrix-f3b38</string>
+</resources>

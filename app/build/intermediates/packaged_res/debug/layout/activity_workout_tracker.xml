@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".WorkoutTracker">
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/nameEditText"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"
+        android:background="#E6E6E6"
+        android:drawablePadding="20dp"
+        android:textSize="17sp"
+        android:drawableStart="@drawable/gym"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textView14"
+        android:layout_marginTop="10dp"
+        android:hint="@string/name_of_workout"
+        android:importantForAutofill="no"
+        android:minHeight="48dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        tools:ignore="TextFields" />
+
+    <Button
+        android:id="@+id/startDateButton"
+        android:layout_width="210dp"
+        android:layout_height="48dp"
+        android:layout_below="@+id/nameEditText"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="23dp"
+        android:layout_marginEnd="89dp"
+        android:text="@string/date_of_workout" />
+
+    <Button
+        android:id="@+id/startTimeButton"
+        android:layout_width="210dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/startDateButton"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="83dp"
+        android:layout_marginTop="83dp"
+        android:text="@string/start_of_workout" />
+
+    <Button
+        android:id="@+id/endTimeButton"
+        android:layout_width="140dp"
+        android:layout_height="60dp"
+        android:layout_below="@+id/startTimeButton"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="17dp"
+        android:layout_marginEnd="162dp"
+        android:text="@string/end_of_workout" />
+
+    <ImageButton
+        android:id="@+id/imageButton4"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_below="@id/startTimeButton"
+        android:layout_marginStart="14dp"
+        android:layout_marginTop="17dp"
+        android:layout_marginEnd="-214dp"
+        android:layout_toStartOf="@+id/endTimeButton"
+        android:onClick="goalsScreen"
+        app:srcCompat="@drawable/trophyicon"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/descriptionEditText"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"
+        android:background="#E6E6E6"
+        android:drawablePadding="20dp"
+        android:textSize="17sp"
+        android:drawableStart="@drawable/desc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/categorySpinner"
+        android:layout_marginTop="11dp"
+        android:hint="@string/workout_description"
+        android:importantForAutofill="no"
+        android:minHeight="48dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        tools:ignore="TextFields" />
+
+    <Button
+        android:id="@+id/submitButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/descriptionEditText"
+        android:layout_marginTop="21dp"
+        android:text="@string/track_work" />
+
+    <Button
+        android:id="@+id/viewButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/submitButton"
+        android:layout_marginTop="1dp"
+        android:onClick="navigateToList"
+        android:text="View List" />
+
+    <Spinner
+        android:id="@+id/categorySpinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/endTimeButton"
+        android:layout_marginTop="19dp"
+        android:minHeight="48dp"
+        android:backgroundTint="@color/colRed"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/toolbar2"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="17dp"
+        android:layout_marginEnd="82dp"
+        android:layout_marginBottom="17dp"
+        android:fontFamily="sans-serif-black"
+        android:text="@string/workout_tracker_w"
+        android:textColor="@color/black"
+        android:textSize="28sp" />
+
+    <ImageButton
+        android:id="@+id/imageButton3"
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        android:onClick="back"
+        app:srcCompat="@drawable/back_icon"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <Button
+        android:id="@+id/endDateButton"
+        android:layout_width="210dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/startTimeButton"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="-115dp"
+        android:layout_marginEnd="90dp"
+        android:text="@string/end_date" />
+</RelativeLayout>

@@ -1,0 +1,378 @@
+[
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_delete.png.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_fail.gif.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\fail.gif"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_round_corners_two.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\round_corners_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_food.png.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\food.png"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_searchicon.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\searchicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_navicontwo.png.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\navicontwo.png"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_keepitup.gif.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\keepitup.gif"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_appletwo.png.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\appletwo.png"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\layout_activity_goals_search.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\layout\\activity_goals_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\layout_activity_food_list.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\layout\\activity_food_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\layout_food_item.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\layout\\food_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_savework.png.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\savework.png"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_foodv.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\foodv.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_bicep.png.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\bicep.png"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\layout_activity_goals.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\layout\\activity_goals.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_gym.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\gym.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\layout_activity_workout_tracker.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\layout\\activity_workout_tracker.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\layout_performance_status_two.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\layout\\performance_status_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_fragmenttwo.png.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\fragmenttwo.png"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_round_corners.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\round_corners.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\layout_activity_goal_list.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\layout\\activity_goal_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_fragfour.png.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\fragfour.png"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\layout_performance_status_three.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\layout\\performance_status_three.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_back_icon.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\back_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_mealsplash.gif.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\mealsplash.gif"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\layout_goal_item.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\layout\\goal_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_success.gif.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\success.gif"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_dataset_icon.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\dataset_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_run.png.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\run.png"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\layout_achievement_toast_two.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\layout\\achievement_toast_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_trophyicon.png.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\trophyicon.png"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_desc.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\desc.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_camone.png.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\camone.png"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\menu_main.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_mealmatrix.png.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\mealmatrix.png"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_password.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\password.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_down.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\down.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_naviconone.png.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\naviconone.png"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_user.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\user.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_achieveone.png.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\achieveone.png"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\layout_activity_workout_list.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\layout\\activity_workout_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_logout_icon.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\logout_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\layout_fragment_slideshow.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\layout_fragment_gallery.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_failure.gif.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\failure.gif"
+    },
+    {
+        "merged": "com.example.mealmatrix.app-merged_res-57:/layout_workout_item.xml.flat",
+        "source": "com.example.mealmatrix.app-main-59:/layout/workout_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_achievefrag.gif.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\achievefrag.gif"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_fragmentimage.jpg.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\fragmentimage.jpg"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\layout_achievment_toast.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\layout\\achievment_toast.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\layout_activity_timer.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\layout\\activity_timer.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_up.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\up.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_applefour.png.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\applefour.png"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_timer_icon.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\timer_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_email.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\email.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\layout_activity_camera.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_foodtwo.png.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\foodtwo.png"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\layout_achievement_toast_three.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\layout\\achievement_toast_three.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_fragmentthree.jpg.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\fragmentthree.jpg"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\layout_activity_performance_status.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\layout\\activity_performance_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_round_corners_three.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\round_corners_three.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_savefrag.png.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\savefrag.png"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-merged_res-57:\\layout_workout_item.xml.flat",
+        "source": "C:\\Users\\brayt\\.gradle\\daemon\\7.5\\com.example.mealmatrix.app-main-59:\\layout\\workout_item.xml"
+    }
+]
